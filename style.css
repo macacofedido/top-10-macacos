@@ -1,0 +1,17 @@
+
+body {
+	background: #6a696d;
+}
+
+p {
+	text-align: center;
+}
+
+em strong {
+	color: #FF0000;
+}
+
+img{
+	height: 400px;
+	width: 300px;
+}
